@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">WithdrawCashApp</string>
+
+    <string name="available_balance">Available balance</string>
+    <string name="withdraw_cash">Withdraw cash</string>
+    <string name="amount_to_withdraw">Amount to withdraw</string>
+    <string name="amount_to_withdraw_desc">Amount will be blocked until you complete the withdrawal or the request expires in <b>4 hours</b>.</string>
+    <string name="withdraw_help">For help on how to withdraw money watch this video.</string>
+    <string name="watch_this_video">watch this video</string>
+    <string name="done">Done</string>
+    <string name="currency">KD</string>
+    <string name="totals">Totals</string>
+    <string name="total">Total</string>
+    <string name="total_amount">Total amount</string>
+    <string name="processing_fee">Processing fee</string>
+    <string name="send_request">Send Request</string>
+
+    <string name="pending_cash_withdrawal">Pending cash withdrawal</string>
+    <string name="expire_time">Expires in %1$d hours %2$d mins</string>
+    <string name="show_code">Show Code</string>
+    <string name="hide_code">Hide Code</string>
+    <string name="do_not_share_code">DO NOT SHARE THIS CODE WITH ANYONE</string>
+    <string name="blocked_until">KD 10 is blocked until you complete the withdrawal or the request expires.</string>
+    <string name="view_atm_location">View ATM locations</string>
+    <string name="security_reminder">SECURITY REMINDER</string>
+    <string name="security_desc">Don\'t tell anyone your OTP, including My Rateb staff.\n\n Shield your device while viewing your OTP.\n\n This OTP is only valid for your current cash withdrawal request and will expire if not used on time.</string>
+
+    <!--Toasts messages-->
+    <string name="invalid_input">Invalid amount entered.</string>
+    <string name="amount_exceeds">Amount exceeds available balance.</string>
+    <string name="enter_amount">Please enter an amount.</string>
+
 </resources>
